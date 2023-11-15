@@ -1,4 +1,4 @@
-# Online-News-Portal![Screenshot 2023-11-14 210513](https://github.com/Soumita-2018/Online-News-Portal/assets/100480877/a4e79644-6149-4067-b486-f0633b5095e5)
+![Screenshot 2023-11-16 005443](https://github.com/Soumita-2018/Online-News-Portal/assets/100480877/c52bd07e-c15a-475d-9faf-7022ba219769)
 ![About Us](https://github.com/Soumita-2018/Online-News-Portal/assets/100480877/c13af8d6-359e-4986-8891-2fc900e724e8)
 ![Add Post](https://github.com/Soumita-2018/Online-News-Portal/assets/100480877/af0376da-a2b2-4bef-b718-f088e1471d17)
 ![Admin Dashboard](https://github.com/Soumita-2018/Online-News-Portal/assets/100480877/e282493a-a57b-4cc2-85ec-575a636809ab)
